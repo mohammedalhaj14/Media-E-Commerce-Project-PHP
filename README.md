@@ -1,4 +1,6 @@
 Media E-Commerce Platform
+
+
 📌 Overview
 This project is a media-based e-commerce website that allows users to browse, search, and purchase digital media content. The platform includes user authentication (login/registration), a shopping cart, and payment integration using Stripe. Built with HTML, CSS, JavaScript, Bootstrap, and PHP, it delivers a seamless shopping experience for media enthusiasts.
 
